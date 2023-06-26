@@ -1,3 +1,9 @@
 000. Bio.md
 000. Prefazione.md
-002. Contenuto.md
+000 Executive Summary.md
+001 Regolamento in Pillole.md
+002 A chi si applica.md
+003 Obblighi dei Modelli.md
+004. Obblighi Specifici.md
+005. AI e contenuti creativi.md
+006. Rischi Connessi.md
