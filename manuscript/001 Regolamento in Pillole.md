@@ -1,4 +1,5 @@
 # 1. Introduzione: il regolamento in pillole
+**di Giuseppe Vaciago**, Partner di 42 Law Firm.
 
 L’Artificial Intelligence Act (noto come AI Act) è il primo atto normativo organico al mondo sull’intelligenza artificiale che mira a istituire un quadro giuridico uniforme volto a regolare lo sviluppo, la commercializzazione e l’uso dei sistemi di intelligenza artificiale in conformità con i valori e i diritti costituzionali dell’UE, limitando i rischi e prevenendo gli eventuali danni.
 

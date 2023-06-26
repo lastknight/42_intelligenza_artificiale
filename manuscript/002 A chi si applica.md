@@ -1,4 +1,5 @@
 # 2. A chi si applica il Regolamento sull’intelligenza artificiale
+**di Giuseppe Vaciago**, Partner di 42 Law Firm.
 
 L’articolo 3 del Regolamento identifica una serie di soggetti che dovranno rispettare, in modo diverso i vari obblighi che elenchiamo di seguito:
 

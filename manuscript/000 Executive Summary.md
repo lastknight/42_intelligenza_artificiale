@@ -21,8 +21,8 @@ A seguito di un'analisi dell’AI Act sono emerse, nello specifico, **sette macr
 È innegabile che l'Intelligenza Artificiale (AI) abbia subito una rapida evoluzione nell'ultimo periodo, influenzando diversi ambiti, tra cui l'arte e la musica. Trattandosi di una nuova modalità di creazione di contenuti, è innegabile che nascano una serie di interrogativi legati alla natura dei contenuti ed alla titolarità dei diritti di proprietà intellettuale relativi ai contenuti stessi. 
 
 1. Chi è l’autore di un’opera generata da AI? 
-2. 2. Diritti e interessi creativi: fino a che punto si può sperimentare con AI senza mettere in discussione i diritti e gli interessi degli autori originali?
-3. 3. Quali sono i rischi sotto il profilo del diritto d’autore per le aziende che decidono di utilizzare prodotti di software di Intelligenza Artificiale?
+2. Diritti e interessi creativi: fino a che punto si può sperimentare con AI senza mettere in discussione i diritti e gli interessi degli autori originali?
+3. Quali sono i rischi sotto il profilo del diritto d’autore per le aziende che decidono di utilizzare prodotti di software di Intelligenza Artificiale?
 
 Comprendere queste questioni è fondamentale nel tentativo di stabilire i limiti e i pericoli nell'utilizzo dell'intelligenza artificiale per creare contenuti artistici.
 

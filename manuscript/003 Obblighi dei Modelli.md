@@ -1,4 +1,5 @@
 # 3. Obblighi per i modelli di base e trasversali
+**di Giuseppe Vaciago**, Partner di 42 Law Firm.
 
 ## 3.1 Obblighi per i modelli di base (GPT)
 
