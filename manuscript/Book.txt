@@ -7,3 +7,4 @@
 004. Obblighi Specifici.md
 005. AI e contenuti creativi.md
 006. Rischi Connessi.md
+007. 42LawFirm.md
